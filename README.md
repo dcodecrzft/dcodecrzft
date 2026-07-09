@@ -13,9 +13,6 @@
 
   \- Edsger W. Dijkstra 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dcodecrzft&theme=dracula&show_icons=true&hide_border=true&border_radius=6)](https://github.com/anuraghazra/github-readme-stats) 
-
-
 <!-- 
 Here are some ideas to get you started:
 
